@@ -18,7 +18,7 @@ global.APIs = {
 //buy apikey premium 0887435047326
 // Free apikey (silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': 'V12', // 👉 login https://api.zeeoneofc.my.id to get apikey
+   'https://api.zeeoneofc.my.id': 'kedhf2kGx9lvxTq', // 👉 login https://api.zeeoneofc.my.id to get apikey
 }
 global.sewabotnya = `
 edit sewabot di file settings.js line 24
@@ -73,7 +73,7 @@ global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.tag_owner = "./tag_owner.mp3" // audio ini akan di kirim apabila ada member yang menandai (tag) owner bot 
 global.background_welcome = "https://telegra.ph/file/edca4b513ddf29fd52c0e.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© AlphaBot ' + botname //sticker wm ubah
+global.packname = '© AlphaBot-MD' + botname //sticker wm ubah
 global.author = 'Created By Azka' + ownername //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.push_kontak_delay = 5000 //5 detik, 1000 = 1 detik
